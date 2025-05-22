@@ -20,7 +20,7 @@ if NEW==2:
     data = pd.read_csv("Data_Base.csv")
 
 # -------------------------------
-# 2. Create and modify data_N
+# 2. Create and modify data_N   
 # -------------------------------
 
 # Create a 12x4 DataFrame filled with ones and name columns accordingly
